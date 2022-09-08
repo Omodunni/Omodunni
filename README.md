@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Ifeoluwa Ezekiel, a detail oriented data analyst with a background in Demography and Statistics
-- 👀 I’m skilled in Excel and Python
-- 🌱 I’m currently learning Sql and PowerBi
-- 💞️ I’m looking to collaborate on projects where I can showcase my passion for deriving actionable insights and solutions to real world problems through data analysis
+ Hi, I’m Ifeoluwa Ezekiel, a detail oriented data analyst with a background in Demography and Statistics
+ I’m skilled in Excel and Python
+ I’m currently learning Sql and PowerBi
+ I’m looking to collaborate on projects where I can showcase my passion for deriving actionable insights and solutions to real world problems through data analysis
 
 
 <!---
